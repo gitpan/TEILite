@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+TEILite.pm
+TEILite/Document.pm
+TEILite/Element.pm
+TEILite/Header.pm
+TODO
+test.pl

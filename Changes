@@ -1,0 +1,10 @@
+TEILite Revision History
+========================
+
+0.2.5 Mon Jul 01 15:04:32 2002
+	- Added tests to Makefile.PL for XML::LibXML and Exporter::Cluster.
+	- Added some more documentation.
+
+0.2.0 Sun Jun 09 15:29:48 2002
+	- Completion of the first successful design approach of the module.
+
